@@ -14,7 +14,7 @@ export const GlobalStyles = createGlobalStyle`
   }
   
   body{
-    font-family: sans-serif;
+    font-family: "Nunito Sans", sans-serif;
   }
 
   a{

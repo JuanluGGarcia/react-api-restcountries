@@ -15,6 +15,8 @@ export const GlobalStyles = createGlobalStyle`
   
   body{
     font-family: "Nunito Sans", sans-serif;
+    background-color: #202C36;
+    color: #fff;
   }
 
   a{
